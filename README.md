@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pyarel
 - 👀 I’m interested in technology. I love learning new things!!.
-- 🌱 I’m currently learning Angular, JavaScript
+- 🌱 I’m currently learning Angular, JavaScript.
+- ✨ I'm passionate about my work and I love what I do.
 - 💞️ I’m looking to collaborate on Angular and JavaScript.
 - 📫 How to reach me?? Mail at pyarel.fer@gmail.com 
 
