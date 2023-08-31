@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/pyarel_fernandes/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/FernandesPyarel">
+  <a href="[https://www.twitter.com/FernandesPyarel](https://www.twitter.com/FernandesPyarel)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
