@@ -25,7 +25,7 @@
 ### :woman_technologist: About Me :
 I’m **Pyarel Flouzia Fernandes**, DevOps Engineer by day, full-stack explorer by heart <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Based in Toronto🇨🇦 (originally from India 🇮🇳), I love building, automating, and creating whether it’s cloud infrastructure, cute reels, or spicy new recipes 🌶️
 - :telescope:  I work with AWS, Terraform, and all things CI/CD to keep infra rock solid.
-- 💻 I'm also comfy on the frontend, backend, and somewhere in between — from Angular to Node.js and everything JS-y in between.
+- 💻 I'm also comfy on the frontend, backend, and somewhere in between — from Angular, React to Node.js, Python and everything JS-y in between.
 - 📚 Forever learning — whether it’s tuning autoscalers with Datadog metrics or reading up on why my avocado hair mask didn’t work 😂  
 - 🧠 Currently geeking out on VPCs, Kubernetes, and how to romanticize life in YAML files.  
 
