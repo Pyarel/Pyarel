@@ -57,6 +57,6 @@ Let’s connect, collab, or just send memes 🧃
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pyarel&theme=radical&card_width=498)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyarel&layout=compact&theme=radical)](https://github.com/pyarel/github-readme-stats)
