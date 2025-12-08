@@ -46,10 +46,3 @@ Let’s connect, collab, or just send memes 🧃
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" title="githubactions" alt ="githubactions" width = "40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pyarel)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyarel&layout=compact&theme=radical)](https://github.com/pyarel/github-readme-stats)
